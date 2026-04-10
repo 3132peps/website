@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us | 31-32 Peptides</title>
+  <meta name="description" content="Get in touch with 31-32 Peptides for research peptide enquiries. Submit your requirements via our contact form or email us directly.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css?v=5">
+  <link rel="icon" type="image/jpeg" href="images/logo.jpg">
+</head>
+<body>
+
+  <!-- Research Disclaimer Banner -->
+  <div class="research-banner">
+    All products are strictly for research purposes only — Not for human consumption
+  </div>
+
+  <!-- Navigation -->
+  <nav class="navbar" id="navbar">
+    <div class="container">
+      <a href="index.html" class="navbar-logo">
+        <img src="images/logo.jpg" alt="31-32 Peptides">
+      </a>
+      <ul class="navbar-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="contact.html" class="active">Contact</a></li>
+        <li><a href="contact.html" class="navbar-cta">Enquire Now</a></li>
+      </ul>
+      <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="mobile-overlay" id="mobileOverlay"></div>
+  </nav>
+
+  <!-- Page Header -->
+  <section class="page-header">
+    <div class="container">
+      <div class="breadcrumb">
+        <a href="index.html">Home</a>
+        <span>/</span>
+        <span>Contact</span>
+      </div>
+      <h1>Get in Touch</h1>
+      <p>Have a research enquiry or need more information about our peptides? We're here to help. All enquiries are handled promptly and confidentially.</p>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section>
+    <div class="container">
+      <div class="contact-grid">
+
+        <!-- Contact Info -->
+        <div class="contact-info-card fade-in-left">
+          <h3>Contact Information</h3>
+          <p>Reach out to our team with your research requirements. We aim to respond to all enquiries within 24 hours.</p>
+
+          <div class="contact-detail">
+            <div class="contact-detail-icon">&#9993;</div>
+            <div>
+              <h4>Email Us</h4>
+              <p><a href="mailto:info@3132peptides.com" style="color: var(--accent);">info@3132peptides.com</a></p>
+            </div>
+          </div>
+
+          <div class="contact-detail">
+            <div class="contact-detail-icon">&#128337;</div>
+            <div>
+              <h4>Response Time</h4>
+              <p>We aim to respond to all enquiries within 24 hours during business days.</p>
+            </div>
+          </div>
+
+          <div class="contact-detail">
+            <div class="contact-detail-icon">&#128230;</div>
+            <div>
+              <h4>Orders</h4>
+              <p>All orders are processed via email enquiry. No online ordering at this time.</p>
+            </div>
+          </div>
+
+          <div class="contact-detail">
+            <div class="contact-detail-icon">&#128205;</div>
+            <div>
+              <h4>Location</h4>
+              <p>United Kingdom</p>
+            </div>
+          </div>
+
+          <div class="footer-research" style="margin-top: 32px;">
+            <p>All products are for research purposes only. Not for human consumption, therapeutic use, or diagnostic purposes. By submitting an enquiry, you confirm your understanding of these terms.</p>
+          </div>
+        </div>
+
+        <!-- Contact Form -->
+        <div class="contact-form-card fade-in-right">
+          <h3>Submit an Enquiry</h3>
+          <p>Fill out the form below and our team will get back to you as soon as possible.</p>
+
+          <form id="contactForm" action="mailto:info@3132peptides.com" method="post" enctype="text/plain">
+            <div class="form-row">
+              <div class="form-group">
+                <label for="firstName">First Name *</label>
+                <input type="text" id="firstName" name="firstName" placeholder="Your first name" required>
+              </div>
+              <div class="form-group">
+                <label for="lastName">Last Name *</label>
+                <input type="text" id="lastName" name="lastName" placeholder="Your last name" required>
+              </div>
+            </div>
+
+            <div class="form-group">
+              <label for="email">Email Address *</label>
+              <input type="email" id="email" name="email" placeholder="your@email.com" required>
+            </div>
+
+            <div class="form-group">
+              <label for="organisation">Organisation / Institution</label>
+              <input type="text" id="organisation" name="organisation" placeholder="Research lab or company name">
+            </div>
+
+            <div class="form-group">
+              <label for="product">Product of Interest</label>
+              <select id="product" name="product">
+                <option value="">Select a product...</option>
+                <option value="RETA">RETA</option>
+                <option value="GHK-CU">GHK-CU (100mg)</option>
+                <option value="BPC157-TB500">BPC-157 + TB-500 (10/10mg)</option>
+                <option value="MOT-C">MOT-C (40mg)</option>
+                <option value="NAD+">NAD+ (1000mg)</option>
+                <option value="KLOW">KLOW Blend (80mg)</option>
+                <option value="GLOW">GLOW Blend (70mg)</option>
+                <option value="Multiple">Multiple Products</option>
+                <option value="Other">Other / Custom Request</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label for="message">Your Message *</label>
+              <textarea id="message" name="message" placeholder="Please describe your research requirements, quantities needed, or any questions you may have..." required></textarea>
+            </div>
+
+            <div class="form-group">
+              <label style="display: flex; align-items: flex-start; gap: 10px; cursor: pointer; text-transform: none; letter-spacing: 0; font-weight: 400; font-size: 0.88rem; color: var(--gray-600);">
+                <input type="checkbox" required style="width: auto; margin-top: 3px;">
+                I confirm that I am enquiring about products for research purposes only. I understand that all 31-32 Peptides products are not intended for human consumption, therapeutic use, or diagnostic purposes. *
+              </label>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="width: 100%; justify-content: center;">
+              Submit Enquiry
+            </button>
+
+            <p class="form-disclaimer">* Required fields. Your information is kept strictly confidential and will only be used to respond to your enquiry. By submitting this form, you acknowledge that all products are for research purposes only.</p>
+          </form>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section style="background: var(--off-white);">
+    <div class="container">
+      <div class="text-center">
+        <span class="section-label">Common Questions</span>
+        <h2 class="section-title">Frequently Asked Questions</h2>
+        <p class="section-subtitle mx-auto">Find answers to common questions about ordering, shipping, and our research peptides.</p>
+      </div>
+      <div class="values-grid">
+        <div class="value-card fade-in">
+          <h3>How do I place an order?</h3>
+          <p>All orders are placed via email enquiry. Simply submit the contact form above or email us directly at info@3132peptides.com with details of the products you need and quantities required. Our team will respond with pricing and availability.</p>
+        </div>
+        <div class="value-card fade-in">
+          <h3>What payment methods do you accept?</h3>
+          <p>Payment details and methods will be provided when we respond to your enquiry. Our team will walk you through the process and ensure everything is straightforward.</p>
+        </div>
+        <div class="value-card fade-in">
+          <h3>Do you ship internationally?</h3>
+          <p>Please include your location in your enquiry and we will advise on shipping availability, timelines, and any applicable requirements for your region.</p>
+        </div>
+        <div class="value-card fade-in">
+          <h3>Are your products for human use?</h3>
+          <p>No. All 31-32 Peptides products are strictly for research purposes only. They are not intended for human or animal consumption, therapeutic use, or any clinical application.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <img src="images/logo.jpg" alt="31-32 Peptides">
+          <p>Premium research-grade peptides for scientific investigation. Committed to advancing research through quality and reliability.</p>
+          <div class="footer-research">
+            <p>All products are for research purposes only. Not for human consumption, therapeutic use, or diagnostic purposes.</p>
+          </div>
+        </div>
+        <div>
+          <h4>Quick Links</h4>
+          <ul class="footer-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About Us</a></li>
+            <li><a href="products.html">Products</a></li>
+            <li><a href="contact.html">Contact</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Products</h4>
+          <ul class="footer-links">
+            <li><a href="products.html">RETA</a></li>
+            <li><a href="products.html">KLOW</a></li>
+            <li><a href="products.html">GLOW</a></li>
+            <li><a href="products.html">BPC-157 + TB-500</a></li>
+            <li><a href="products.html">MOT-C</a></li>
+            <li><a href="products.html">NAD+</a></li>
+            <li><a href="products.html">GHK-CU</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Contact</h4>
+          <ul class="footer-links">
+            <li><a href="mailto:info@3132peptides.com">info@3132peptides.com</a></li>
+            <li><a href="contact.html">Enquiry Form</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2025 31-32 Peptides. All rights reserved.</p>
+        <p>All products are for research purposes only. Not for human consumption.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
