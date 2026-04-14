@@ -173,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
         `The sender confirms all products are for research purposes only.`
       );
 
-      window.location.href = `mailto:info@3132peptides.com?subject=${subject}&body=${body}`;
+      window.location.href = `mailto:info@31-32peptides.com?subject=${subject}&body=${body}`;
 
       const btn = contactForm.querySelector('button[type="submit"]');
       const originalText = btn.textContent;
