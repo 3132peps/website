@@ -80,12 +80,13 @@ function validatePayload(body: unknown): {
     throw new Error("Missing form data.");
   }
 
-  const { fullName, email, addressLine1, city, postcode, ruoConfirmed, termsAccepted } =
+  const { fullName, email, phone, addressLine1, city, postcode, ruoConfirmed, termsAccepted } =
     formData;
 
   if (!fullName?.trim()) throw new Error("Full name is required.");
   if (!email?.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email))
     throw new Error("A valid email address is required.");
+  if (!phone?.trim()) throw new Error("A phone number is required.");
   if (!addressLine1?.trim()) throw new Error("Address line 1 is required.");
   if (!city?.trim()) throw new Error("City is required.");
   if (!postcode?.trim()) throw new Error("Postcode is required.");

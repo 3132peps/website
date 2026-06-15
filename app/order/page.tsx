@@ -168,6 +168,7 @@ export default function OrderPage() {
     if (!fullName.trim()) return "Full name is required.";
     if (!email.trim() || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email))
       return "A valid email address is required.";
+    if (!phone.trim()) return "A phone number is required.";
     if (!addressLine1.trim()) return "Address line 1 is required.";
     if (!city.trim()) return "City is required.";
     if (!postcode.trim()) return "Postcode is required.";
@@ -190,7 +191,7 @@ export default function OrderPage() {
     const formData: OrderFormData = {
       fullName: fullName.trim(),
       email: email.trim(),
-      phone: phone.trim() || undefined,
+      phone: phone.trim(),
       addressLine1: addressLine1.trim(),
       addressLine2: addressLine2.trim() || undefined,
       city: city.trim(),
@@ -571,10 +572,13 @@ export default function OrderPage() {
 
                     {/* Phone */}
                     <div className="space-y-1.5">
-                      <Label htmlFor="phone">Phone Number</Label>
+                      <Label htmlFor="phone">
+                        Phone Number <span className="text-red-500">*</span>
+                      </Label>
                       <Input
                         id="phone"
                         type="tel"
+                        required
                         value={phone}
                         onChange={(e) => setPhone(e.target.value)}
                         placeholder="07700 900000"

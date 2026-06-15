@@ -65,8 +65,8 @@ function ConfirmationContent() {
 
           {/* Message */}
           <p className="mt-6 text-[#F5F7FB]/70">
-            Our team will review your order and get in touch with you directly
-            to confirm and arrange everything.
+            A member of our team will be in touch with you directly to confirm
+            your order and arrange payment and delivery.
           </p>
 
           {/* What happens next */}
