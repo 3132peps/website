@@ -75,22 +75,19 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // First-run bootstrap: with no admins yet, the first sign-in creates the
-    // owner account from these credentials.
-    let created = false;
+    // First-run seeding: with no admins yet, create the owner account from
+    // the ADMIN_USERNAME / ADMIN_PASSWORD env vars set in the Vercel project.
+    // Gating on env vars means ONLY someone with dashboard access can create
+    // the first admin -- a stranger who reaches this page can never claim it.
+    // If the env vars are absent there is simply no admin and every login is
+    // rejected, so the table can never be seeded by an outsider.
     if ((await countAdmins()) === 0) {
-      if (password.length < 8) {
-        return NextResponse.json(
-          {
-            error:
-              "Set a password of at least 8 characters to create your admin account.",
-          },
-          { status: 400 },
-        );
+      const seedUser = process.env.ADMIN_USERNAME?.trim();
+      const seedPass = process.env.ADMIN_PASSWORD;
+      if (seedUser && seedPass && seedPass.length >= 8) {
+        const passwordHash = await hashPassword(seedPass);
+        await createAdmin({ username: seedUser, passwordHash, createdBy: null });
       }
-      const passwordHash = await hashPassword(password);
-      await createAdmin({ username, passwordHash, createdBy: null });
-      created = true;
     }
 
     const admin = await verifyAdminPassword(username, password);
@@ -116,7 +113,7 @@ export async function POST(request: NextRequest) {
       console.error("[auth/login] markAdminLogin failed:", err),
     );
 
-    return NextResponse.json({ success: true, created });
+    return NextResponse.json({ success: true });
   } catch (err) {
     console.error("[auth/login] unexpected error:", err);
     return NextResponse.json(
