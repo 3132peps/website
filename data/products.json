@@ -1,0 +1,1705 @@
+[
+  {
+    "slug": "tirzepatide-40mg-vial",
+    "name": "Tirzepatide 40mg Vial",
+    "category": "GLP-1 Research",
+    "description": "Tirzepatide is a synthetic dual gastric inhibitory polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist. This 39-amino-acid peptide features a C20 fatty diacid moiety that enables albumin binding, extending its pharmacokinetic profile in preclinical models.",
+    "researchContext": "Tirzepatide has been studied in preclinical and in vitro models examining incretin receptor signalling, with particular focus on its dual GIP/GLP-1 receptor agonism and downstream effects on metabolic pathway modulation. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "40mg",
+        "price": 120,
+        "sku": "3132-TIRZ-40V"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/tirzepatide-vial.jpg"
+    ],
+    "tags": [
+      "glp-1",
+      "gip-agonist",
+      "incretin",
+      "metabolic-research"
+    ],
+    "relatedSlugs": [
+      "tirzepatide-31-32-pen",
+      "retatrutide-20mg-vial",
+      "retatrutide-31-32-pen",
+      "cagrilintide-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "tirzepatide-31-32-pen",
+    "name": "Tirzepatide 31-32 Pen (40mg)",
+    "category": "GLP-1 Research",
+    "format": "pen",
+    "description": "Tirzepatide is a synthetic dual gastric inhibitory polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist. This pre-filled research pen format provides a convenient delivery system for controlled laboratory dispensing of tirzepatide in research settings.",
+    "researchContext": "Tirzepatide has been studied in preclinical and in vitro models examining incretin receptor signalling, with particular focus on its dual GIP/GLP-1 receptor agonism and downstream effects on metabolic pathway modulation. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "40mg",
+        "price": 140,
+        "sku": "3132-TIRZ-40P"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/tirzepatide-pen.jpg"
+    ],
+    "tags": [
+      "glp-1",
+      "gip-agonist",
+      "incretin",
+      "pen",
+      "metabolic-research"
+    ],
+    "relatedSlugs": [
+      "tirzepatide-40mg-vial",
+      "retatrutide-31-32-pen",
+      "retatrutide-20mg-vial",
+      "cagrilintide-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "retatrutide-20mg-vial",
+    "name": "Retatrutide 20mg Vial",
+    "category": "GLP-1 Research",
+    "bulkDeal": "3 for £150",
+    "bulkDealQty": 3,
+    "bulkDealPrice": 50,
+    "description": "Retatrutide is a novel triple-agonist peptide targeting GIP, GLP-1, and glucagon receptors simultaneously. This triagonist architecture represents a distinct pharmacological approach in metabolic signalling research, engaging three incretin-related receptor pathways in preclinical models.",
+    "researchContext": "Preclinical studies have examined Retatrutide's binding profiles across GIP, GLP-1, and glucagon receptors, investigating downstream signalling cascades and their interactions in metabolic pathway research. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "20mg",
+        "price": 90,
+        "sku": "3132-RETA-20V"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/retatrutide-vial.jpg"
+    ],
+    "tags": [
+      "glp-1",
+      "triple-agonist",
+      "incretin",
+      "metabolic-research"
+    ],
+    "relatedSlugs": [
+      "retatrutide-31-32-pen",
+      "synedica-retatrutide-pen",
+      "tirzepatide-40mg-vial",
+      "cagrilintide-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "retatrutide-31-32-pen",
+    "name": "Retatrutide 31-32 Pen (40mg)",
+    "category": "GLP-1 Research",
+    "format": "pen",
+    "description": "Retatrutide is a novel triple-agonist peptide targeting GIP, GLP-1, and glucagon receptors simultaneously. This pre-filled research pen format provides a convenient delivery system for controlled laboratory dispensing of retatrutide in research settings.",
+    "researchContext": "Preclinical studies have examined Retatrutide's binding profiles across GIP, GLP-1, and glucagon receptors, investigating downstream signalling cascades and their interactions in metabolic pathway research. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "40mg",
+        "price": 140,
+        "sku": "3132-RETA-40P"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/retatrutide-pen.jpg"
+    ],
+    "tags": [
+      "glp-1",
+      "triple-agonist",
+      "incretin",
+      "pen",
+      "metabolic-research"
+    ],
+    "relatedSlugs": [
+      "retatrutide-20mg-vial",
+      "synedica-retatrutide-pen",
+      "tirzepatide-31-32-pen",
+      "cagrilintide-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "cagrilintide-10mg",
+    "name": "Cagrilintide",
+    "category": "GLP-1 Research",
+    "description": "Cagrilintide is a long-acting acylated amylin analogue peptide designed for sustained interaction with amylin receptors. Its fatty acid modification enables extended pharmacokinetic profiles in preclinical models, making it a subject of interest in metabolic pathway research.",
+    "researchContext": "Published preclinical literature has investigated Cagrilintide's interactions with amylin receptor subtypes and its downstream effects on metabolic signalling pathways. Studies have explored its synergistic activity with GLP-1 receptor agonists in controlled laboratory settings. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 95,
+        "sku": "3132-CAGRI-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/cagrilintide.jpg"
+    ],
+    "tags": [
+      "glp-1",
+      "amylin-analogue",
+      "metabolic-research"
+    ],
+    "relatedSlugs": [
+      "tirzepatide-40mg-vial",
+      "retatrutide-20mg-vial",
+      "tirzepatide-31-32-pen"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "bpc-157-10mg",
+    "name": "BPC-157",
+    "category": "Tissue Repair",
+    "description": "BPC-157 (Body Protection Compound-157) is a synthetic pentadecapeptide consisting of 15 amino acids derived from a partial sequence of a protective protein found in gastric juice. This stable peptide fragment has been extensively studied in preclinical models for its molecular interactions with growth factor signalling pathways, nitric oxide systems, and extracellular matrix remodelling.",
+    "researchContext": "Published preclinical literature has investigated BPC-157 in the context of tendon, ligament, muscle, and gastrointestinal tissue models. Studies have examined its effects on angiogenesis markers, collagen organisation, and inflammatory cytokine modulation in controlled laboratory settings. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 55,
+        "sku": "3132-BPC157-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "1419.53 g/mol",
+    "sequence": "Gly-Glu-Pro-Pro-Pro-Gly-Lys-Pro-Ala-Asp-Asp-Ala-Gly-Leu-Val",
+    "inStock": true,
+    "images": [
+      "/images/products/bpc-157.jpg"
+    ],
+    "tags": [
+      "tissue-repair",
+      "gastric-peptide",
+      "pentadecapeptide"
+    ],
+    "relatedSlugs": [
+      "tb-500-10mg",
+      "wolverine-pen",
+      "ghk-cu-50mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "tb-500-10mg",
+    "name": "TB-500 (Thymosin Beta-4)",
+    "category": "Tissue Repair",
+    "description": "TB-500 is a synthetic analogue of Thymosin Beta-4, a naturally occurring 43-amino-acid peptide that is a major actin-sequestering molecule in eukaryotic cells. The active region centres on the actin-binding domain (residues 17–23), which facilitates interactions with G-actin monomers critical to cytoskeletal dynamics and cell migration.",
+    "researchContext": "Thymosin Beta-4 has been studied in preclinical wound-healing models, examining its role in keratinocyte and endothelial cell migration, collagen deposition, and inflammatory response modulation. Research has also explored its interactions with laminin and matrix metalloproteinases in tissue remodelling assays. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 55,
+        "sku": "3132-TB500-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/tb-500.jpg"
+    ],
+    "tags": [
+      "tissue-repair",
+      "thymosin",
+      "actin-binding"
+    ],
+    "relatedSlugs": [
+      "bpc-157-10mg",
+      "wolverine-pen",
+      "ghk-cu-50mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "ghk-cu-50mg",
+    "name": "GHK-Cu (Copper Peptide)",
+    "category": "Cellular Regeneration",
+    "description": "GHK-Cu is a naturally occurring copper-binding tripeptide consisting of glycyl-L-histidyl-L-lysine complexed with a copper(II) ion. First isolated from human plasma, it has a high affinity for Cu2+ and is one of the most studied copper peptide complexes in biochemistry. Its compact structure enables interactions with multiple cellular signalling pathways.",
+    "researchContext": "GHK-Cu has been investigated in published studies examining gene expression modulation, with research suggesting it may influence over 4,000 genes. Laboratory studies have explored its role in extracellular matrix protein synthesis, antioxidant enzyme regulation, and fibroblast behaviour in cell culture models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "50mg",
+        "price": 60,
+        "sku": "3132-GHKCU-50"
+      },
+      {
+        "weight": "100mg",
+        "price": 70,
+        "sku": "3132-GHKCU-100"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "403.93 g/mol",
+    "sequence": "Gly-His-Lys",
+    "inStock": true,
+    "images": [
+      "/images/products/ghk-cu-50.jpg",
+      "/images/products/ghk-cu-100.jpg"
+    ],
+    "tags": [
+      "cellular-regeneration",
+      "copper-peptide",
+      "tripeptide"
+    ],
+    "relatedSlugs": [
+      "ghk-cu-pen",
+      "bpc-157-10mg",
+      "epithalon-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "selank-10mg",
+    "name": "Selank",
+    "category": "Neuroprotective",
+    "description": "Selank is a synthetic heptapeptide analogue of the immunomodulatory peptide tuftsin, with an additional Gly-Pro sequence that enhances metabolic stability. It interacts with the GABAergic system and has been studied for its influence on brain-derived neurotrophic factor (BDNF) expression in preclinical models.",
+    "researchContext": "Preclinical research has examined Selank's interactions with GABA-A receptor complexes and its effects on monoamine neurotransmitter concentrations in brain tissue models. Studies have also explored its influence on enkephalin degradation enzymes and immune cell signalling in vitro. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 55,
+        "sku": "3132-SELANK-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/selank.jpg"
+    ],
+    "tags": [
+      "neuroprotective",
+      "heptapeptide",
+      "tuftsin-analogue"
+    ],
+    "relatedSlugs": [
+      "semax-10mg",
+      "dsip-15mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "semax-10mg",
+    "name": "Semax",
+    "category": "Neuroprotective",
+    "description": "Semax is a synthetic heptapeptide derived from a fragment of adrenocorticotropic hormone (ACTH 4–10), with a Pro-Gly-Pro C-terminal extension that confers resistance to proteolytic degradation. It has been studied for its interactions with neurotrophic factor expression and monoamine neurotransmitter systems.",
+    "researchContext": "Preclinical studies have investigated Semax's effects on BDNF and nerve growth factor (NGF) expression in neuronal cell culture models. Research has also examined its influence on dopaminergic and serotonergic signalling pathways in controlled laboratory settings. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 55,
+        "sku": "3132-SEMAX-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/semax.jpg"
+    ],
+    "tags": [
+      "neuroprotective",
+      "heptapeptide",
+      "acth-fragment"
+    ],
+    "relatedSlugs": [
+      "selank-10mg",
+      "dsip-15mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "slu-pp-332-5mg",
+    "name": "SLU-PP-332",
+    "category": "Metabolic Research",
+    "description": "SLU-PP-332 is a small molecule agonist of estrogen-related receptors (ERRs), a family of orphan nuclear receptors involved in mitochondrial biogenesis and oxidative metabolism. It has been studied as an exercise mimetic in preclinical models, activating transcriptional programmes associated with endurance exercise adaptation.",
+    "researchContext": "Preclinical studies have examined SLU-PP-332's activation of ERR-alpha, ERR-beta, and ERR-gamma, and its downstream effects on mitochondrial gene expression, fatty acid oxidation pathways, and oxidative muscle fibre-type switching in laboratory models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "5mg",
+        "price": 55,
+        "sku": "3132-SLUPP-5"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/slu-pp-332.jpg"
+    ],
+    "tags": [
+      "metabolic-research",
+      "exercise-mimetic",
+      "err-agonist",
+      "small-molecule"
+    ],
+    "relatedSlugs": [
+      "5-amino-1mq",
+      "mots-c-40mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "melanotan-1-10mg",
+    "name": "Melanotan I",
+    "category": "Melanocortin Research",
+    "description": "Melanotan I (afamelanotide) is a synthetic linear peptide analogue of alpha-melanocyte-stimulating hormone (α-MSH). It is a full-length 13-amino-acid peptide melanocortin receptor agonist with selectivity for the MC1 receptor, studied for its interactions with melanocortin signalling pathways in dermatological research models.",
+    "researchContext": "Preclinical research has examined Melanotan I's binding kinetics at melanocortin-1 receptors (MC1R) and its downstream effects on melanogenesis-related gene expression in melanocyte cell culture models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 50,
+        "sku": "3132-MT1-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/melanotan-1.jpg"
+    ],
+    "tags": [
+      "melanocortin",
+      "msh-analogue",
+      "mc1r-agonist"
+    ],
+    "relatedSlugs": [
+      "melanotan-2-10mg",
+      "pt-141-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "melanotan-2-10mg",
+    "name": "Melanotan II",
+    "category": "Melanocortin Research",
+    "description": "Melanotan II is a cyclic lactam heptapeptide analogue of alpha-melanocyte-stimulating hormone (α-MSH) with broad melanocortin receptor activity. Its cyclic structure confers enhanced metabolic stability and receptor binding compared to the linear parent peptide, with affinity across MC1R, MC3R, MC4R, and MC5R subtypes.",
+    "researchContext": "Preclinical research has examined Melanotan II's binding profiles across multiple melanocortin receptor subtypes and its downstream effects on cAMP-mediated signalling pathways in cell-based assay systems. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 50,
+        "sku": "3132-MT2-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/melanotan-2.jpg"
+    ],
+    "tags": [
+      "melanocortin",
+      "cyclic-peptide",
+      "msh-analogue"
+    ],
+    "relatedSlugs": [
+      "melanotan-1-10mg",
+      "pt-141-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "pt-141-10mg",
+    "name": "PT-141 (Bremelanotide)",
+    "category": "Melanocortin Research",
+    "contactForPrice": true,
+    "description": "PT-141 (Bremelanotide) is a cyclic heptapeptide melanocortin receptor agonist derived from Melanotan II. It is a metabolite of Melanotan II and acts primarily through MC3R and MC4R activation. Its structure features selective modifications that differentiate its receptor binding profile from the parent compound.",
+    "researchContext": "Preclinical studies have examined PT-141's selective binding at melanocortin-3 and melanocortin-4 receptor subtypes and its downstream effects on central nervous system signalling pathways in laboratory models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 0,
+        "sku": "3132-PT141-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/pt-141.jpg"
+    ],
+    "tags": [
+      "melanocortin",
+      "cyclic-peptide",
+      "mc4r-agonist"
+    ],
+    "relatedSlugs": [
+      "melanotan-2-10mg",
+      "melanotan-1-10mg"
+    ],
+    "storefrontVisible": true
+  },
+  {
+    "slug": "kpv-10mg",
+    "name": "KPV",
+    "category": "Anti-Inflammatory Research",
+    "description": "KPV is a tripeptide (Lys-Pro-Val) derived from the C-terminal end of alpha-melanocyte-stimulating hormone (α-MSH). Despite lacking the full melanocortin receptor binding domain, this minimal peptide fragment has been studied for its interactions with inflammatory signalling pathways, including NF-kB modulation and cytokine expression in cell-based models.",
+    "researchContext": "Published preclinical literature has investigated KPV's interactions with intracellular inflammatory signalling cascades, particularly NF-kB translocation and pro-inflammatory cytokine expression in immune cell and epithelial cell culture models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 48,
+        "sku": "3132-KPV-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "Lys-Pro-Val",
+    "inStock": true,
+    "images": [
+      "/images/products/kpv.jpg"
+    ],
+    "tags": [
+      "anti-inflammatory",
+      "tripeptide",
+      "msh-derived"
+    ],
+    "relatedSlugs": [
+      "bpc-157-10mg",
+      "melanotan-1-10mg",
+      "melanotan-2-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "bacteriostatic-water",
+    "name": "Bacteriostatic Water",
+    "category": "Lab Supplies",
+    "description": "Bacteriostatic water is sterile water containing 0.9% benzyl alcohol as a bacteriostatic preservative. It is a standard laboratory reagent used for the reconstitution of lyophilised peptide compounds in research settings, maintaining sterility across multiple access points.",
+    "researchContext": "Bacteriostatic water is an essential laboratory supply for peptide reconstitution workflows. The benzyl alcohol preservative inhibits microbial growth, allowing multi-use access over extended periods in controlled laboratory environments. Supplied for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "3mL",
+        "price": 4,
+        "sku": "3132-BAC-3"
+      },
+      {
+        "weight": "10mL",
+        "price": 6,
+        "sku": "3132-BAC-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store at room temperature (15–25°C). Protect from light. Discard 28 days after first use.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/bacteriostatic-water-3ml.jpg",
+      "/images/products/bacteriostatic-water-10ml.jpg"
+    ],
+    "tags": [
+      "lab-supplies",
+      "reconstitution",
+      "sterile-water"
+    ],
+    "relatedSlugs": [
+      "bpc-157-10mg",
+      "tb-500-10mg",
+      "ipamorelin-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "synedica-retatrutide-pen",
+    "name": "Synedica Retatrutide Pens (40mg)",
+    "category": "GLP-1 Research",
+    "format": "pen",
+    "description": "Third-party manufactured Retatrutide pre-filled research pen produced by Synedica. Retatrutide is a triple-agonist peptide targeting GIP, GLP-1, and glucagon receptors. This pen format provides precise, repeatable dispensing for controlled laboratory research applications.",
+    "researchContext": "Retatrutide has been studied in preclinical models examining triple incretin receptor agonism. This Synedica-manufactured pen format is designed for laboratory research workflows requiring consistent and reproducible dispensing. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "40mg",
+        "price": 160,
+        "sku": "3132-SYN-RETA-40P"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/synedica-retatrutide-pen.webp"
+    ],
+    "tags": [
+      "glp-1",
+      "triple-agonist",
+      "pen",
+      "synedica"
+    ],
+    "relatedSlugs": [
+      "retatrutide-20mg-vial",
+      "retatrutide-31-32-pen",
+      "tirzepatide-31-32-pen"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "mots-c-40mg",
+    "name": "MOTS-c",
+    "category": "Metabolic Research",
+    "description": "MOTS-c (Mitochondrial Open Reading Frame of the Twelve S rRNA Type-c) is a mitochondria-derived peptide encoded within the 12S rRNA gene of mitochondrial DNA. This 16-amino-acid peptide has been studied for its role in cellular energy metabolism, AMPK pathway activation, and folate-methionine cycle regulation in preclinical models.",
+    "researchContext": "Preclinical research has examined MOTS-c's interactions with the AMPK signalling axis and its effects on glucose metabolism, fatty acid oxidation, and mitochondrial function in cell culture and animal models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "40mg",
+        "price": 75,
+        "sku": "3132-MOTSC-40"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/mots-c.jpg"
+    ],
+    "tags": [
+      "metabolic-research",
+      "mitochondrial-peptide",
+      "ampk"
+    ],
+    "relatedSlugs": [
+      "nad-plus",
+      "5-amino-1mq",
+      "slu-pp-332-5mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "dsip-15mg",
+    "name": "DSIP (Delta Sleep-Inducing Peptide)",
+    "category": "Neuroprotective",
+    "description": "DSIP (Delta Sleep-Inducing Peptide) is a naturally occurring nonapeptide first isolated from cerebral venous blood. It has been studied in neuroendocrine signalling research for its interactions with sleep-wake cycle regulatory mechanisms and its modulation of corticotropin and somatotropin release patterns in preclinical models.",
+    "researchContext": "Preclinical research has examined DSIP's effects on delta-wave electroencephalographic activity, hypothalamic-pituitary axis signalling, and stress-response peptide modulation in laboratory models. Studies have also investigated its interactions with opioid receptor systems. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "15mg",
+        "price": 55,
+        "sku": "3132-DSIP-15"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/dsip.jpg"
+    ],
+    "tags": [
+      "neuroprotective",
+      "nonapeptide",
+      "neuroendocrine"
+    ],
+    "relatedSlugs": [
+      "selank-10mg",
+      "semax-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "nad-plus",
+    "name": "NAD+",
+    "category": "Metabolic Research",
+    "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a critical coenzyme present in all living cells, functioning as an essential electron carrier in redox reactions throughout central metabolic pathways including glycolysis, the TCA cycle, and oxidative phosphorylation. It also serves as a substrate for sirtuin deacetylases and PARP enzymes involved in DNA repair signalling.",
+    "researchContext": "NAD+ has been extensively studied in preclinical models examining cellular energy metabolism, sirtuin-mediated epigenetic regulation, and DNA damage response pathways. Research has investigated its role in age-related metabolic decline models and mitochondrial function assays. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "500mg",
+        "price": 75,
+        "sku": "3132-NAD-500"
+      },
+      {
+        "weight": "1000mg",
+        "price": 110,
+        "sku": "3132-NAD-1000"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight and moisture. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/nad-500.jpg",
+      "/images/products/nad-1000.jpg"
+    ],
+    "tags": [
+      "metabolic-research",
+      "coenzyme",
+      "sirtuin-substrate"
+    ],
+    "relatedSlugs": [
+      "nad-plus-pen",
+      "mots-c-40mg",
+      "5-amino-1mq",
+      "epithalon-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "nad-plus-pen",
+    "name": "NAD+ Pen (1000mg)",
+    "category": "Metabolic Research",
+    "format": "pen",
+    "description": "NAD+ (Nicotinamide Adenine Dinucleotide) is a critical coenzyme functioning as an essential electron carrier in redox reactions throughout central metabolic pathways. This pre-filled research pen format provides precise dispensing for controlled laboratory applications studying NAD+ biology.",
+    "researchContext": "NAD+ has been extensively studied in preclinical models examining cellular energy metabolism, sirtuin-mediated epigenetic regulation, and DNA damage response pathways. This pen format is designed for laboratory research workflows. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "1000mg",
+        "price": 160,
+        "sku": "3132-NAD-1000P"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/nad-plus-pen.jpg"
+    ],
+    "tags": [
+      "metabolic-research",
+      "coenzyme",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "nad-plus",
+      "mots-c-40mg",
+      "5-amino-1mq"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "cjc-1295-no-dac-10mg",
+    "name": "CJC-1295 (no DAC)",
+    "category": "Growth Factor Research",
+    "description": "CJC-1295 without Drug Affinity Complex (also known as Modified GRF 1-29) is a synthetic analogue of growth hormone-releasing hormone (GHRH) consisting of 29 amino acids. It features four amino acid substitutions (Ala2, Gln8, Ala15, Leu27) that enhance its resistance to enzymatic degradation by dipeptidyl peptidase-IV (DPP-IV), extending its biological half-life compared to native GHRH.",
+    "researchContext": "Research has examined CJC-1295 (no DAC) for its interactions with the GHRH receptor and its effects on pulsatile growth hormone secretion patterns in preclinical models. Studies have investigated its synergistic activity when combined with GHS-R agonists in controlled laboratory settings. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 60,
+        "sku": "3132-CJC1295-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/cjc-1295.jpg"
+    ],
+    "tags": [
+      "growth-factor",
+      "ghrh-analogue",
+      "modified-grf"
+    ],
+    "relatedSlugs": [
+      "ipamorelin-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "ipamorelin-10mg",
+    "name": "Ipamorelin",
+    "category": "Growth Factor Research",
+    "description": "Ipamorelin is a synthetic pentapeptide and selective growth hormone secretagogue receptor (GHS-R) agonist. Unlike other GHS-R ligands, it demonstrates high selectivity for growth hormone release without significantly affecting cortisol, prolactin, or ACTH levels in preclinical models. Its structure incorporates non-natural amino acid residues that confer metabolic stability.",
+    "researchContext": "Preclinical studies have examined Ipamorelin's binding kinetics at the ghrelin receptor (GHS-R1a) and its downstream effects on the GH/IGF-1 axis in animal models. Research has focused on its selectivity profile compared to other secretagogues, as well as its pharmacokinetic properties. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 52,
+        "sku": "3132-IPAM-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/ipamorelin.jpg"
+    ],
+    "tags": [
+      "growth-factor",
+      "secretagogue",
+      "pentapeptide"
+    ],
+    "relatedSlugs": [
+      "cjc-1295-no-dac-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "epithalon-10mg",
+    "name": "Epithalon",
+    "category": "Anti-Aging Research",
+    "description": "Epithalon (also known as Epitalon) is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) analogue of the naturally occurring pineal gland peptide epithalamin. It has been studied for its interactions with telomerase reverse transcriptase (hTERT) gene expression and telomere length maintenance mechanisms in cell culture models.",
+    "researchContext": "Preclinical research has examined Epithalon's effects on telomerase activity in human somatic cell lines and its influence on telomere elongation kinetics. Studies have also investigated its interactions with pineal gland melatonin synthesis pathways and circadian rhythm gene expression. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 50,
+        "sku": "3132-EPITH-10"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "Ala-Glu-Asp-Gly",
+    "inStock": true,
+    "images": [
+      "/images/products/epithalon.jpg"
+    ],
+    "tags": [
+      "anti-aging",
+      "tetrapeptide",
+      "telomerase"
+    ],
+    "relatedSlugs": [
+      "ghk-cu-50mg",
+      "nad-plus",
+      "mots-c-40mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "5-amino-1mq",
+    "name": "5-Amino-1MQ",
+    "category": "Metabolic Research",
+    "description": "5-Amino-1MQ (5-amino-1-methylquinolinium) is a small molecule inhibitor of nicotinamide N-methyltransferase (NNMT), an enzyme involved in cellular energy metabolism and adipocyte differentiation. By modulating NNMT activity, it has been studied for its effects on NAD+ salvage pathway flux and intracellular SAM/SAH ratios in preclinical models.",
+    "researchContext": "Preclinical research has examined 5-Amino-1MQ's inhibition of NNMT enzymatic activity and its downstream effects on NAD+ bioavailability, sirtuin activation, and adipogenic gene expression in cell culture models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "5mg",
+        "price": 50,
+        "sku": "3132-5A1MQ-5"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store in a cool, dry place away from direct sunlight. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/5-Amino-5mg.jpg"
+    ],
+    "tags": [
+      "metabolic-research",
+      "nnmt-inhibitor",
+      "small-molecule"
+    ],
+    "relatedSlugs": [
+      "nad-plus",
+      "mots-c-40mg",
+      "slu-pp-332-5mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "ghk-cu-pen",
+    "name": "GHK-Cu Pen (100mg)",
+    "category": "Cellular Regeneration",
+    "format": "pen",
+    "description": "GHK-Cu is a naturally occurring copper-binding tripeptide (glycyl-L-histidyl-L-lysine) complexed with a copper(II) ion. This pre-filled research pen format provides precise dispensing for controlled laboratory applications studying copper peptide biology and gene expression modulation.",
+    "researchContext": "GHK-Cu has been investigated in published studies examining gene expression modulation and extracellular matrix protein synthesis. This pen format is designed for laboratory research workflows requiring consistent and reproducible dispensing. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "100mg",
+        "price": 100,
+        "sku": "3132-GHKCU-100P"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "403.93 g/mol",
+    "sequence": "Gly-His-Lys",
+    "inStock": true,
+    "images": [
+      "/images/products/ghk-cu-pen.jpg"
+    ],
+    "tags": [
+      "cellular-regeneration",
+      "copper-peptide",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "ghk-cu-50mg",
+      "bpc-157-10mg",
+      "epithalon-10mg",
+      "glow-pen",
+      "klow-pen"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "wolverine-pen",
+    "name": "Wolverine Pen (10mg/10mg)",
+    "category": "Tissue Repair",
+    "format": "pen",
+    "description": "The Wolverine Pen is a research blend pen containing BPC-157 and TB-500 (Thymosin Beta-4), two peptides widely studied in tissue repair and regeneration research models. BPC-157 is a pentadecapeptide from gastric juice protein sequence, while TB-500 is a synthetic analogue of Thymosin Beta-4 involved in actin-sequestering and cytoskeletal dynamics.",
+    "researchContext": "Preclinical literature has examined BPC-157 and TB-500 individually and in combination for their interactions with growth factor signalling, extracellular matrix remodelling, and cell migration pathways. This combined formulation is designed for laboratory research into synergistic peptide interactions in tissue models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "1 Pen",
+        "price": 120,
+        "sku": "3132-WOLF-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/wolverine-pen.jpg"
+    ],
+    "tags": [
+      "tissue-repair",
+      "blend",
+      "pen",
+      "bpc-157",
+      "tb-500"
+    ],
+    "relatedSlugs": [
+      "bpc-157-10mg",
+      "tb-500-10mg",
+      "ghk-cu-pen",
+      "glow-pen",
+      "klow-pen"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "glow-pen",
+    "name": "GLOW Pen (70mg)",
+    "category": "Research Blend - Pen",
+    "format": "pen",
+    "description": "The GLOW Pen is a three-component research peptide blend in a precision-dosed pen format for scientific investigation. The blend contains GHK-Cu (50mg), BPC-157 (10mg), and TB-500 (10mg) for a total of 70mg per pen.",
+    "researchContext": "GHK-Cu, BPC-157, and TB-500 have each been studied independently in preclinical models examining copper peptide biology, gastric peptide-mediated cytoprotection, and actin-sequestering cytoskeletal dynamics respectively. This combined formulation is designed for laboratory research into multi-peptide interactions. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "1 Pen",
+        "price": 115,
+        "sku": "3132-GLOW-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/glow-pen-70mg.jpg"
+    ],
+    "tags": [
+      "blend",
+      "pen",
+      "ghk-cu",
+      "bpc-157",
+      "tb-500",
+      "cellular-regeneration",
+      "tissue-repair"
+    ],
+    "relatedSlugs": [
+      "klow-pen",
+      "wolverine-pen",
+      "ghk-cu-pen",
+      "ghk-cu-50mg",
+      "bpc-157-10mg",
+      "tb-500-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "klow-pen",
+    "name": "KLOW Pen (80mg)",
+    "category": "Research Blend - Pen",
+    "format": "pen",
+    "description": "The KLOW Pen is a premium four-component research peptide blend in a precision-dosed pen format for laboratory investigation. The blend contains GHK-Cu (50mg), BPC-157 (10mg), TB-500 (10mg), and KPV (10mg) for a total of 80mg per pen.",
+    "researchContext": "GHK-Cu, BPC-157, TB-500, and KPV have been studied in preclinical models examining copper peptide biology, gastric peptide-mediated cytoprotection, actin-sequestering cytoskeletal dynamics, and melanocortin receptor-independent anti-inflammatory signalling respectively. This four-component formulation is designed for laboratory research into synergistic multi-peptide interactions. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "1 Pen",
+        "price": 125,
+        "sku": "3132-KLOW-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/klow-pen-80mg.jpg"
+    ],
+    "tags": [
+      "blend",
+      "pen",
+      "ghk-cu",
+      "bpc-157",
+      "tb-500",
+      "kpv",
+      "cellular-regeneration",
+      "tissue-repair",
+      "anti-inflammatory"
+    ],
+    "relatedSlugs": [
+      "glow-pen",
+      "wolverine-pen",
+      "ghk-cu-pen",
+      "ghk-cu-50mg",
+      "bpc-157-10mg",
+      "tb-500-10mg",
+      "kpv-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "mots-c-pen",
+    "name": "MOTS-c Pen (40mg)",
+    "category": "Metabolic Research",
+    "format": "pen",
+    "description": "MOTS-c (Mitochondrial Open Reading Frame of the Twelve S rRNA Type-c) is a mitochondria-derived peptide encoded within the 12S rRNA gene of mitochondrial DNA. This pre-filled research pen presents the 16-amino-acid peptide in a precision-dosed format for controlled laboratory dispensing, supporting studies of cellular energy metabolism and AMPK pathway activation.",
+    "researchContext": "Preclinical research has examined MOTS-c's interactions with the AMPK signalling axis and its effects on glucose metabolism, fatty acid oxidation, and mitochondrial function in cell culture and animal models. The pen format is designed for reproducible dispensing in laboratory research workflows. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "40mg",
+        "price": 100,
+        "sku": "3132-MOTSC-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/motc-pen.jpg"
+    ],
+    "tags": [
+      "metabolic-research",
+      "mitochondrial-peptide",
+      "ampk",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "mots-c-40mg",
+      "nad-plus",
+      "slu-pp-332-5mg",
+      "5-amino-1mq"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "pt-141-pen",
+    "name": "Bremelanotide (PT-141) Pen (10mg)",
+    "category": "Melanocortin Research",
+    "format": "pen",
+    "description": "Bremelanotide (PT-141) is a synthetic cyclic heptapeptide analogue of alpha-melanocyte-stimulating hormone (α-MSH) that acts as a non-selective agonist at melanocortin receptors, with notable activity at the MC4 receptor. This pre-filled research pen provides a precision-dosed delivery format for controlled laboratory dispensing in melanocortin signalling research.",
+    "researchContext": "Preclinical studies have investigated Bremelanotide's agonism across melanocortin receptor subtypes and downstream central nervous system signalling pathways. The pen format supports consistent dispensing across laboratory research workflows. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 75,
+        "sku": "3132-PT141-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/pt-141-pen.jpg"
+    ],
+    "tags": [
+      "melanocortin",
+      "mc4-agonist",
+      "msh-analogue",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "pt-141-10mg",
+      "melanotan-2-10mg",
+      "melanotan-2-pen"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "cagrilintide-pen",
+    "name": "Cagrilintide Pen (10mg)",
+    "category": "GLP-1 Research",
+    "format": "pen",
+    "description": "Cagrilintide is a long-acting acylated amylin analogue designed for sustained interaction with amylin and calcitonin receptors. Its fatty-acid modification enables an extended pharmacokinetic profile in preclinical models. This pre-filled research pen delivers the peptide in a precision-dosed format for controlled laboratory dispensing.",
+    "researchContext": "Preclinical research has examined Cagrilintide's receptor binding at amylin and calcitonin receptors and its role in metabolic and appetite-signalling pathways, both alone and alongside incretin receptor agonists. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 110,
+        "sku": "3132-CAGRI-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/cagrilintide-pen.jpg"
+    ],
+    "tags": [
+      "glp-1",
+      "amylin-analogue",
+      "metabolic-research",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "cagrilintide-10mg",
+      "retatrutide-cagrilintide-pen",
+      "retatrutide-20mg-vial",
+      "tirzepatide-40mg-vial"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "growth-hormone-pen",
+    "name": "Growth Hormone (Somatropin) Pen (108iu)",
+    "category": "Growth Factor Research",
+    "format": "pen",
+    "description": "Growth Hormone (Somatropin) is recombinant human growth hormone, a 191-amino-acid polypeptide identical in sequence to endogenous pituitary growth hormone. It acts on the growth hormone receptor to stimulate insulin-like growth factor 1 (IGF-1) production and is studied for its roles in growth, metabolism, and tissue maintenance. This pre-filled research pen contains 108iu in a precision-dosed format for controlled laboratory dispensing.",
+    "researchContext": "Preclinical research has examined growth hormone signalling through the growth hormone receptor and JAK/STAT pathway, modulation of the IGF-1 axis, and downstream effects on protein, lipid, and carbohydrate metabolism in laboratory models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "108iu",
+        "price": 150,
+        "sku": "3132-GH-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/gh-pen.jpg"
+    ],
+    "tags": [
+      "growth-factor-research",
+      "growth-hormone",
+      "somatropin",
+      "igf-1",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "tesamorelin-pen",
+      "cjc-1295-ipamorelin-pen",
+      "ipamorelin-10mg",
+      "cjc-1295-no-dac-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "tesamorelin-pen",
+    "name": "Tesamorelin Pen (20mg)",
+    "category": "Growth Factor Research",
+    "format": "pen",
+    "description": "Tesamorelin is a synthetic analogue of growth-hormone-releasing hormone (GHRH), stabilised with a trans-3-hexenoyl group that prolongs its activity at the GHRH receptor. It stimulates the release of endogenous growth hormone in preclinical models. This pre-filled research pen presents the peptide in a precision-dosed format for controlled laboratory dispensing.",
+    "researchContext": "Preclinical studies have examined Tesamorelin's agonism at the GHRH receptor and downstream effects on the growth hormone / IGF-1 axis and lipid metabolism, including visceral adipose tissue models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "20mg",
+        "price": 120,
+        "sku": "3132-TESA-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/tesamorelin-pen.jpg"
+    ],
+    "tags": [
+      "growth-factor-research",
+      "ghrh-analogue",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "cjc-1295-ipamorelin-pen",
+      "growth-hormone-pen",
+      "ipamorelin-10mg",
+      "cjc-1295-no-dac-10mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "cjc-1295-ipamorelin-pen",
+    "name": "CJC-1295 & Ipamorelin Pen (10mg/10mg)",
+    "category": "Growth Factor Research",
+    "format": "pen",
+    "description": "This research blend pen combines CJC-1295 (10mg) and Ipamorelin (10mg), two peptides frequently studied together in growth-hormone secretagogue research. CJC-1295 is a synthetic growth-hormone-releasing hormone (GHRH) analogue, while Ipamorelin is a selective growth-hormone secretagogue and ghrelin-receptor agonist. The pre-filled pen provides a precision-dosed format for controlled laboratory dispensing.",
+    "researchContext": "Preclinical literature has examined CJC-1295 and Ipamorelin individually and in combination for their complementary actions on the GHRH receptor and the growth-hormone secretagogue receptor, and downstream effects on growth-hormone release in laboratory models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "1 Pen",
+        "price": 100,
+        "sku": "3132-CJCIPA-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/cjc-ipamorelin-pen.jpg"
+    ],
+    "tags": [
+      "growth-factor-research",
+      "blend",
+      "cjc-1295",
+      "ipamorelin",
+      "ghrh-analogue",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "cjc-1295-no-dac-10mg",
+      "ipamorelin-10mg",
+      "tesamorelin-pen",
+      "growth-hormone-pen"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "slu-pp-332-pen",
+    "name": "SLU-PP-332 Pen (5mg)",
+    "category": "Metabolic Research",
+    "format": "pen",
+    "description": "SLU-PP-332 is a small-molecule agonist of the estrogen-related receptors (ERRs), a family of orphan nuclear receptors involved in mitochondrial biogenesis and oxidative metabolism. Studied as an exercise mimetic in preclinical models, it activates transcriptional programmes associated with endurance-exercise adaptation. This pre-filled research pen presents it in a precision-dosed format for controlled laboratory dispensing.",
+    "researchContext": "Preclinical studies have examined SLU-PP-332's activation of ERR-alpha, ERR-beta, and ERR-gamma and its downstream effects on mitochondrial gene expression, fatty-acid oxidation, and oxidative muscle fibre-type switching in laboratory models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "5mg",
+        "price": 80,
+        "sku": "3132-SLUPP-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/slu-pp-332-pen.jpg"
+    ],
+    "tags": [
+      "metabolic-research",
+      "exercise-mimetic",
+      "err-agonist",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "slu-pp-332-5mg",
+      "mots-c-pen",
+      "mots-c-40mg",
+      "5-amino-1mq"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "ss-31-pen",
+    "name": "Elamipretide (SS-31) Pen (10mg)",
+    "category": "Metabolic Research",
+    "format": "pen",
+    "description": "Elamipretide (SS-31) is a synthetic mitochondria-targeting tetrapeptide that selectively binds cardiolipin on the inner mitochondrial membrane, where it has been studied for its role in stabilising membrane structure and supporting electron-transport-chain efficiency. This pre-filled research pen presents the peptide in a precision-dosed format for controlled laboratory dispensing.",
+    "researchContext": "Preclinical research has examined Elamipretide's interaction with cardiolipin, its effects on mitochondrial bioenergetics and reactive-oxygen-species production, and its role in models of mitochondrial dysfunction. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 70,
+        "sku": "3132-SS31-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/ss-31-pen.jpg"
+    ],
+    "tags": [
+      "metabolic-research",
+      "mitochondrial-peptide",
+      "cardiolipin",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "mots-c-pen",
+      "mots-c-40mg",
+      "nad-plus",
+      "5-amino-1mq"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "melanotan-2-pen",
+    "name": "Melanotan II Pen (10mg)",
+    "category": "Melanocortin Research",
+    "format": "pen",
+    "description": "Melanotan II is a cyclic lactam heptapeptide analogue of alpha-melanocyte-stimulating hormone (α-MSH) with broad activity across melanocortin receptor subtypes, studied for its role in melanogenesis research. This pre-filled research pen presents the peptide in a precision-dosed format for controlled laboratory dispensing.",
+    "researchContext": "Preclinical research has examined Melanotan II's binding across multiple melanocortin receptor subtypes and downstream signalling related to pigmentation pathways. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 45,
+        "sku": "3132-MT2-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/melanotan-2-pen.jpg"
+    ],
+    "tags": [
+      "melanocortin",
+      "msh-analogue",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "melanotan-2-10mg",
+      "melanotan-1-10mg",
+      "pt-141-pen"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "retatrutide-cagrilintide-pen",
+    "name": "Retatrutide & Cagrilintide Pen (20mg/10mg)",
+    "category": "GLP-1 Research",
+    "format": "pen",
+    "description": "This research blend pen combines Retatrutide (20mg) and Cagrilintide (10mg). Retatrutide is a triple-agonist peptide targeting the GIP, GLP-1, and glucagon receptors simultaneously, while Cagrilintide is a long-acting acylated amylin analogue. The pre-filled pen provides a precision-dosed format for controlled laboratory dispensing in metabolic-signalling research.",
+    "researchContext": "Preclinical research has examined Retatrutide's triagonist activity across GIP, GLP-1, and glucagon receptors and Cagrilintide's amylin-receptor signalling, including studies of their combined effects on metabolic pathways. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "1 Pen",
+        "price": 170,
+        "sku": "3132-RETACAGRI-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/retatrutide-cagrilintide-pen.jpg"
+    ],
+    "tags": [
+      "glp-1",
+      "triple-agonist",
+      "amylin-analogue",
+      "blend",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "retatrutide-20mg-vial",
+      "cagrilintide-10mg",
+      "cagrilintide-pen",
+      "retatrutide-31-32-pen"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "limitless-pen",
+    "name": "Limitless Pen (Semax & Selank) (10mg/10mg)",
+    "category": "Neuroprotective",
+    "format": "pen",
+    "description": "The Limitless Pen is a research blend combining Semax (10mg) and Selank (10mg), two synthetic peptides studied in neuroprotective and nootropic research. Semax is a heptapeptide derived from a fragment of adrenocorticotropic hormone (ACTH), while Selank is a synthetic analogue of the immunomodulatory peptide tuftsin. The pre-filled pen provides a precision-dosed format for controlled laboratory dispensing.",
+    "researchContext": "Preclinical literature has examined Semax and Selank individually and in combination for their effects on brain-derived neurotrophic factor (BDNF) expression, neurotransmitter systems, and stress and anxiety pathways in laboratory models. Supplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "1 Pen",
+        "price": 100,
+        "sku": "3132-LIMITLESS-PEN"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Store refrigerated at 2–8°C. Do not freeze. Protect from light.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/limitless-pen.jpg"
+    ],
+    "tags": [
+      "neuroprotective",
+      "nootropic",
+      "blend",
+      "semax",
+      "selank",
+      "pen"
+    ],
+    "relatedSlugs": [
+      "semax-10mg",
+      "selank-10mg",
+      "dsip-15mg"
+    ],
+    "contactForPrice": false,
+    "storefrontVisible": true
+  },
+  {
+    "slug": "peptide-vial-travel-case",
+    "name": "Peptide Vial Travel Case (6 Slots)",
+    "category": "Lab Supplies",
+    "description": "A compact hard-shell travel case designed to keep peptide vials protected and organised on the move. The durable EVA shell with a carbon-fibre style finish guards against bumps, drops, and external pressure, while the custom foam insert holds six standard 10ml vials upright and secure. A soft interior lining, smooth zip closure, mesh storage pocket in the lid, and easy-carry strap complete a lightweight, travel-ready design.",
+    "researchContext": "Reliable sample transport is an essential part of laboratory logistics. This case provides insulated, shock-resistant storage that keeps vials upright and separated in transit, helping preserve sample integrity between research environments. The water-resistant shell and compact, TSA-friendly footprint make it suitable for field work and travel.",
+    "variants": [
+      {
+        "weight": "6-Slot",
+        "price": 5,
+        "sku": "3132-CASE-6V"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "Wipe clean with a dry or lightly damp cloth. Keep the foam insert dry. Store away from direct heat sources.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "https://iyfa900tdxd6rt9e.public.blob.vercel-storage.com/products/3f58abb5-b204-44c5-8378-0aeaefb272b3.jpg",
+      "https://iyfa900tdxd6rt9e.public.blob.vercel-storage.com/products/95cf205e-9b48-444c-940d-602e36f172a8.jpg",
+      "https://iyfa900tdxd6rt9e.public.blob.vercel-storage.com/products/34ea8e7f-beaa-4c7f-9806-38a9a7e132af.jpg"
+    ],
+    "tags": [
+      "lab-supplies",
+      "travel-case",
+      "storage",
+      "vial-storage",
+      "accessories"
+    ],
+    "relatedSlugs": [
+      "bacteriostatic-water",
+      "bpc-157-10mg",
+      "tb-500-10mg"
+    ],
+    "storefrontVisible": false
+  },
+  {
+    "slug": "ara-290-10mg-vial",
+    "name": "ARA 290 - 10mg Vial",
+    "category": "Repair Research",
+    "format": "vial",
+    "description": "ARA 290 (also known as Cibinetide) is an 11-amino acid, non-erythropoietic peptide designed from the Helix B domain of erythropoietin (EPO). It targets the innate repair receptor (IRR) to reduce inflammation, repair tissue, and alleviate neuropathic pain without increasing red blood cell production. It is primarily researched for treating chronic pain, diabetes-related neuropathy, and sarcoidosis.",
+    "researchContext": "",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 25,
+        "sku": "3132-ARA-290"
+      }
+    ],
+    "purity": ">98%",
+    "coaUrl": "",
+    "storageInstructions": "",
+    "molecularWeight": "257.3 g/mol",
+    "sequence": "pGlu-Glu-Gln-Leu-Glu-Arg-Ala-Leu-Asn-Ser-Ser",
+    "inStock": true,
+    "images": [
+      "https://iyfa900tdxd6rt9e.public.blob.vercel-storage.com/products/c973ed83-8209-41a7-a3bf-94e69cd52176.jpg"
+    ],
+    "tags": [
+      "peptide"
+    ],
+    "relatedSlugs": [],
+    "storefrontVisible": false
+  },
+  {
+    "slug": "ss-31-10mg",
+    "name": "SS-31 (Elamipretide) 10mg",
+    "category": "mitochondria-targeted",
+    "description": "SS-31 (Elamipretide) is a synthetic, cell-permeable peptide that targets mitochondria to reduce oxidative stress and improve energy production by binding to cardiolipin, a component of the inner mitochondrial membrane. It has shown significant potential in treating mitochondrial-related diseases, such as kidney damage, heart failure, and neurodegenerative",
+    "researchContext": "Key Details About SS-31:\nMechanism of Action: Repairs mitochondrial membrane folds, reduces mitochondrial fragmentation, increases fusion, and decreases reactive oxygen species.\nSupplied exclusively for in vitro laboratory research purposes.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 22,
+        "sku": "3132SS31"
+      }
+    ],
+    "purity": "",
+    "coaUrl": "",
+    "storageInstructions": "",
+    "molecularWeight": "639.83 g/mol",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "https://iyfa900tdxd6rt9e.public.blob.vercel-storage.com/products/32c4cc17-b952-4eb8-be94-542f5df24706.jpg"
+    ],
+    "tags": [],
+    "relatedSlugs": [],
+    "storefrontVisible": false
+  },
+  {
+    "slug": "tesamorelin-5mg-vial",
+    "name": "Tesamorelin - 5mg Vial",
+    "category": "Growth Hormone Research",
+    "format": "vial",
+    "description": "Tesamorelin is a synthetic peptide analogue of growth hormone-releasing hormone (GHRH) approved to reduce excess abdominal fat (lipodystrophy) in HIV-infected patients. It functions by stimulating the pituitary gland to produce more growth hormone, which can specifically decrease visceral adipose tissue (VAT).",
+    "researchContext": "Tesamorelin is meticulously synthesised through a controlled process that guarantees high purity (≥98%) and stability, making it suitable for precise scientific studies. Our commitment to excellence ensures that each batch undergoes stringent quality control to meet the rigorous standards researchers require.",
+    "variants": [
+      {
+        "weight": "5mg",
+        "price": 25,
+        "sku": "3132-TESA-5MG"
+      }
+    ],
+    "purity": "≥98%",
+    "coaUrl": "",
+    "storageInstructions": "",
+    "molecularWeight": "5135.9 g/mol",
+    "sequence": "Trans-3-hexenoyl-YADAIFTNSYRKVLGQLSARKLLQDIMSRQQGESNQERGARARL-NH2",
+    "inStock": true,
+    "images": [
+      "https://iyfa900tdxd6rt9e.public.blob.vercel-storage.com/products/91046924-911b-41d9-835b-d353cc53a1b3.jpg"
+    ],
+    "tags": [
+      "growth-hormone"
+    ],
+    "relatedSlugs": [],
+    "storefrontVisible": false
+  },
+  {
+    "slug": "thymosin-alpha-1-10mg-vial",
+    "name": "Thymosin Alpha 1 - 10mg vial",
+    "category": "Immune System Research",
+    "format": "vial",
+    "description": "Thymosin Alpha 1, offered at 10mg, is a high-quality specialised research peptide developed for advanced scientific exploration in immunology and related fields. This product is ideal for laboratory settings where precision and reliability are paramount.",
+    "researchContext": "Thymosin Alpha 1 is meticulously synthesised through a controlled process that guarantees high purity (≥98%) and stability, making it suitable for precise scientific studies. Our commitment to excellence ensures that each batch undergoes stringent quality control to meet the rigorous standards researchers require.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 28,
+        "sku": "3132-TA1"
+      }
+    ],
+    "purity": ">98%",
+    "coaUrl": "",
+    "storageInstructions": "",
+    "molecularWeight": "3108.3 g/mol",
+    "sequence": "Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN-OH",
+    "inStock": true,
+    "images": [
+      "https://iyfa900tdxd6rt9e.public.blob.vercel-storage.com/products/Ta1.JPG"
+    ],
+    "tags": [
+      "peptide",
+      "ta1",
+      "immune-sysem"
+    ],
+    "relatedSlugs": [],
+    "storefrontVisible": false
+  },
+  {
+    "slug": "vasoactive-intestinal-peptide-10mg-vial",
+    "name": "Vasoactive intestinal peptide - 10mg Vial",
+    "category": "Growth-Hormone-Research",
+    "format": "vial",
+    "description": "Vasoactive Intestinal Peptide (VIP) 10mg is a synthetic research compound often supplied as a lyophilized powder for study in regulating smooth muscle relaxation, immune modulation (reducing pro-inflammatory cytokines), and improving respiratory function. It acts as a vasodilator and assists with gut motility, with potential research applications for inflammation and viral.",
+    "researchContext": "Vasoactive Intestinal Peptide (VIP) 10mg is a synthetic, 28-amino acid neuropeptide that functions primarily as a neuroendocrine modulator in scientific research, focusing on immunomodulation, smooth muscle relaxation, and circadian rhythm regulation. It is widely used in experimental models to investigate VPAC1 and VPAC2 receptor signalling pathways.",
+    "variants": [
+      {
+        "weight": "10mg",
+        "price": 52,
+        "sku": "3132-VIP-10MG"
+      }
+    ],
+    "purity": "≥98%",
+    "coaUrl": "",
+    "storageInstructions": "",
+    "molecularWeight": "~3325.8 g/mol",
+    "sequence": "C147H238N44O42S",
+    "inStock": true,
+    "images": [
+      "https://iyfa900tdxd6rt9e.public.blob.vercel-storage.com/products/VIP.JPG"
+    ],
+    "tags": [
+      "peptide",
+      "growth-hormone"
+    ],
+    "relatedSlugs": [],
+    "storefrontVisible": false
+  },
+  {
+    "slug": "tesofensine-5mg-vial",
+    "name": "Tesofensine (5mg Vial)",
+    "category": "Metabolic Research",
+    "description": "Tesofensine is a triple monoamine reuptake inhibitor studied in research models for appetite signalling and energy-metabolism endpoints. Supplied as a sealed glass vial strictly for in-vitro laboratory research use only.",
+    "researchContext": "Investigated in preclinical research for serotonin–noradrenaline–dopamine reuptake inhibition.",
+    "variants": [
+      {
+        "weight": "5mg",
+        "price": 0,
+        "sku": "3132-TESO-5"
+      }
+    ],
+    "purity": "≥99%",
+    "coaUrl": "",
+    "storageInstructions": "Store lyophilised powder at -20°C. Once reconstituted, refrigerate at 2–8°C.",
+    "molecularWeight": "",
+    "sequence": "",
+    "inStock": true,
+    "images": [
+      "/images/products/tesofensine.jpg"
+    ],
+    "tags": [
+      "tesofensine",
+      "metabolic",
+      "research"
+    ],
+    "relatedSlugs": [],
+    "format": "vial",
+    "contactForPrice": true,
+    "storefrontVisible": true
+  }
+]

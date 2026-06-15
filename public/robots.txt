@@ -1,0 +1,12 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /order/confirmation
+
+# Host
+Host: https://31-32peptides.com
+
+# Sitemaps
+Sitemap: https://31-32peptides.com/sitemap.xml

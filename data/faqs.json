@@ -1,0 +1,139 @@
+[
+  {
+    "category": "Ordering & Payment",
+    "questions": [
+      {
+        "question": "How does the ordering process work?",
+        "answer": "When you place an order on our website, our team reviews your order and emails you an invoice within 24 hours containing our bank details for payment. Once payment has been received and cleared, your order is dispatched via Royal Mail Tracked. You will receive email updates at each stage: order confirmed, invoice sent, payment received, and dispatched. Order timelines vary by product but are typically 5-10 working days from payment."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "We currently accept UK bank transfer only. After you place your order, our team will email you an invoice with our bank details. Payment is made by faster payments and is usually confirmed on our side within a few hours. We do not currently take card or cryptocurrency payments — this keeps our processing fees down and our product prices as low as possible."
+      },
+      {
+        "question": "How can I verify Elv8 Wellness before sending a bank transfer?",
+        "answer": "We understand that sending a bank transfer to a new supplier can feel like a leap of faith. We run an active WhatsApp Community where existing customers share reviews, ask questions, and chat openly about their experience with us. You are very welcome to join, read through the conversation, and speak to real customers before you place an order. You can join via the green WhatsApp button on the bottom-right of every page on this website."
+      },
+      {
+        "question": "Will I receive an order confirmation?",
+        "answer": "Yes. Immediately after placing your order, you will receive an automated confirmation email containing your order number, itemised summary, and estimated dispatch date. Please check your spam or junk folder if you do not see it within 15 minutes. If you still have not received a confirmation, contact our support team at the email address on our website."
+      },
+      {
+        "question": "Do you offer bulk or wholesale pricing for research institutions?",
+        "answer": "Yes. We offer tiered pricing for laboratories and research institutions placing bulk orders. Discounts are applied automatically at checkout based on quantity, and additional wholesale pricing is available upon request. Please contact our team directly with your institution details and required quantities for a tailored quote."
+      },
+      {
+        "question": "Can I modify or cancel my order after placing it?",
+        "answer": "Orders can be modified or cancelled within 1 hour of placement, provided they have not yet entered the dispatch queue. To request a change, contact our support team immediately with your order number. Once an order has been packed or dispatched, we are unable to make modifications. Please refer to our returns policy for further information."
+      },
+      {
+        "question": "Do you accept returns or offer refunds?",
+        "answer": "No. Due to the nature of the research compounds we supply, all sales are final. Once an order has been dispatched we cannot accept returns or offer refunds or exchanges, including for change of mind or incorrect ordering. Once a product has left our facility we have no way of guaranteeing that it remains unopened, uncontaminated, and stored within its required conditions, so for the safety of all researchers and on health-protection and hygiene grounds it cannot be resold, returned, or refunded. Please review your order carefully before paying. If your order arrives damaged, faulty, or incorrect, contact us within 48 hours of delivery with photographs and your order number, before opening or using the product, and where a fault on our part is confirmed we will arrange a replacement of equal or greater value. This does not affect any statutory rights that cannot lawfully be excluded."
+      },
+      {
+        "question": "What happens if a product or its packaging is unavailable?",
+        "answer": "Stock and packaging availability can change without notice. Where the exact product, presentation, or packaging you ordered is temporarily or permanently unavailable, we reserve the right to supply a comparable alternative of equal or greater value — often a higher-value equivalent — so that your order is fulfilled without delay. By placing an order you consent to receiving a suitable equivalent of equal or higher value where your original selection cannot be supplied. Substitutions of this kind are provided in good faith to complete your order and are not grounds for a return, refund, or cancellation."
+      }
+    ]
+  },
+  {
+    "category": "Shipping & Delivery",
+    "questions": [
+      {
+        "question": "How quickly will my order be dispatched?",
+        "answer": "Orders are dispatched promptly once payment has been received. Orders placed on weekends or bank holidays will be dispatched on the next working day. You will be notified via email when your parcel is on its way."
+      },
+      {
+        "question": "What UK shipping options are available?",
+        "answer": "All UK orders are sent via Royal Mail Tracked, with standard delivery in 1-3 business days from dispatch. Every parcel is fully tracked on our side. We do not send tracking numbers automatically, but they are always available on request — see the next question for details."
+      },
+      {
+        "question": "Do you ship internationally?",
+        "answer": "Not at launch. We are currently focused on providing the best possible service to UK-based researchers and international shipping is not available. We plan to expand our shipping options in the future. Please contact us to register your interest."
+      },
+      {
+        "question": "How are peptides packaged for shipping?",
+        "answer": "All peptides are shipped in tamper-evident, sealed vials within secure, protective packaging to maintain product integrity. Each item is carefully packed to ensure it arrives safely and in optimal condition. Lyophilised (freeze-dried) peptides are stable at ambient temperatures for short transit periods, and we take additional precautions to ensure safe delivery."
+      },
+      {
+        "question": "How do I track my order, and what happens if it is delayed or missing?",
+        "answer": "Every UK order is sent via Royal Mail Tracked so a tracking number is generated for every parcel. To keep your inbox clean we do not send tracking details automatically, but they are always available on request — just email info@elv8wellness.com or message us with your order reference and we will forward the tracking number straight away. If a parcel is delayed, marked as delivered but not received, or otherwise appears missing, this is handled directly by Royal Mail through their missing or delayed mail process. We will gladly supply the tracking number to help you raise a claim, and we are happy to support you through it."
+      }
+    ]
+  },
+  {
+    "category": "Quality & Testing",
+    "questions": [
+      {
+        "question": "What purity levels do your peptides have?",
+        "answer": "All peptides supplied by Elv8 Wellness are verified at 99%+ purity via High-Performance Liquid Chromatography (HPLC) analysis. Each product listing displays the confirmed purity percentage. We only release batches that meet our strict purity thresholds, ensuring consistency and reliability for in-vitro research applications."
+      },
+      {
+        "question": "Are Certificates of Analysis (CoA) available?",
+        "answer": "Yes. A Certificate of Analysis is available for every product and every batch we sell. CoAs include HPLC purity data, mass spectrometry confirmation, and any additional testing performed. You can download the CoA directly from the product page on our website, or request one by contacting our support team with your order number and batch reference."
+      },
+      {
+        "question": "How should I store my peptides?",
+        "answer": "Lyophilised (freeze-dried) peptides are stable at room temperature and should be stored in a cool, dry place away from direct sunlight, heat, and moisture. Keep vials sealed in their original packaging. Once reconstituted, peptides should be refrigerated at 2-8 degrees Celsius and protected from light. Pre-filled research pens should be refrigerated at 2-8 degrees Celsius and must not be frozen."
+      },
+      {
+        "question": "Do you perform batch testing on every production run?",
+        "answer": "Yes. Every batch undergoes full analytical testing before release, including HPLC purity analysis and mass spectrometry to confirm molecular identity and weight. Batches that do not meet our specifications are rejected and never made available for sale. Batch numbers are printed on every vial label for full traceability."
+      },
+      {
+        "question": "Is third-party verification available?",
+        "answer": "Yes. In addition to our in-house quality control, we commission independent third-party laboratory testing on a regular basis to validate our results. Third-party test reports are available upon request for researchers who require additional verification for their laboratory protocols. Contact our team with the specific product and batch number for access to these reports."
+      }
+    ]
+  },
+  {
+    "category": "Legal & Compliance",
+    "questions": [
+      {
+        "question": "Is it legal to purchase research peptides in the UK?",
+        "answer": "Yes. Research peptides sold for in-vitro laboratory research purposes are legal to purchase in the UK. Under The Human Medicines Regulations 2012, peptides that are not marketed or sold as medicinal products for human use are not classified as medicines. All products sold by Elv8 Wellness are strictly for in-vitro research use only and are not intended for human consumption, therapeutic application, or any in-vivo use."
+      },
+      {
+        "question": "What does 'research use only' mean?",
+        "answer": "All products sold by Elv8 Wellness are designated 'for in-vitro research use only'. This means they are supplied exclusively for laboratory-based research, including cell culture studies, binding assays, and other in-vitro experimental applications. They are not manufactured, labelled, or intended for human or animal consumption, therapeutic use, or any form of self-administration. By purchasing, you confirm that you understand and agree to this condition."
+      },
+      {
+        "question": "Is there a minimum age requirement to purchase?",
+        "answer": "Yes. You must be at least 18 years of age to purchase any products from Elv8 Wellness. By placing an order, you confirm that you are 18 or older and that the products will be used solely for legitimate in-vitro research purposes. We reserve the right to request age verification before processing orders."
+      },
+      {
+        "question": "Do I need a licence to purchase research peptides?",
+        "answer": "No. Under current UK regulations, no specific licence is required to purchase peptides for in-vitro research purposes. However, buyers are responsible for ensuring their use complies with all applicable institutional policies, ethical guidelines, and local regulations. Certain controlled substances are excluded from our catalogue and require separate regulatory authorisation."
+      },
+      {
+        "question": "Are any products restricted or controlled?",
+        "answer": "Elv8 Wellness does not sell any peptides that are classified as controlled substances under the Misuse of Drugs Act 1971 or listed under The Human Medicines Regulations 2012 as prescription-only medicines. Our product catalogue is reviewed regularly to ensure full compliance with UK law. If a product's legal status changes, it will be removed from sale immediately."
+      }
+    ]
+  },
+  {
+    "category": "Calculator & Research",
+    "questions": [
+      {
+        "question": "How do I use the reconstitution calculator?",
+        "answer": "Our reconstitution calculator helps researchers determine the correct volume of bacteriostatic water to add to a lyophilised peptide vial to achieve a desired concentration. Enter the total peptide mass in milligrams (as shown on the vial label), select your desired concentration per unit volume, and the calculator will display the required volume of bacteriostatic water. This tool is provided as a reference for in-vitro research preparation only."
+      },
+      {
+        "question": "What is bacteriostatic water and why is it used?",
+        "answer": "Bacteriostatic water is sterile water containing 0.9% benzyl alcohol, which inhibits bacterial growth. It is the standard solvent used to reconstitute lyophilised peptides for in-vitro research applications. The benzyl alcohol preservative allows the reconstituted solution to be used over multiple research sessions without rapid microbial contamination. It should not be confused with sterile water for injection, which does not contain a preservative."
+      },
+      {
+        "question": "How should reconstituted peptides be stored?",
+        "answer": "Once reconstituted with bacteriostatic water, peptides should be stored at 2-8 degrees Celsius (standard laboratory refrigerator) and protected from light. Do not freeze reconstituted solutions as this can cause degradation. Always use sterile technique when withdrawing from the vial to prevent contamination."
+      },
+      {
+        "question": "What syringe types are suitable for peptide research?",
+        "answer": "For precise measurement in in-vitro research, insulin syringes (0.5 mL or 1 mL with 100-unit markings) are commonly used due to their fine graduations. Luer-lock syringes are recommended when attaching filters or transferring solutions between vessels. All syringes used should be sterile, single-use, and appropriate for the volume being measured. Our calculator displays volumes in both millilitres and insulin syringe units (IU) for convenience."
+      },
+      {
+        "question": "Can I use the calculator for custom concentrations?",
+        "answer": "Yes. The calculator supports custom concentration inputs, allowing researchers to prepare solutions tailored to their specific experimental protocols. Enter your desired concentration and peptide quantity, and the tool will calculate the exact solvent volume required. All calculations are for reference purposes to support in-vitro research preparation and should be verified against your laboratory's standard operating procedures."
+      }
+    ]
+  }
+]

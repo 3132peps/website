@@ -1,0 +1,105 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+/* 31-32 Peptides — dark brand theme (navy + blue/cyan, Space Grotesk) */
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-jetbrains-mono);
+  --font-heading: var(--font-inter);
+
+  --color-primary: #3B82F6;
+  --color-primary-foreground: #FFFFFF;
+  --color-secondary: #1A2439;
+  --color-secondary-foreground: #F5F7FB;
+  --color-accent-brand: #22D3EE;
+  --color-dark: #070B14;
+  --color-surface: #121A2B;
+  --color-border: #1E2A3F;
+  --color-warning: #F59E0B;
+  --color-amber: #F59E0B;
+  --color-muted: #0F1626;
+  --color-muted-foreground: #B0BBD1;
+
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar: var(--sidebar);
+  --color-chart-5: var(--chart-5);
+  --color-chart-4: var(--chart-4);
+  --color-chart-3: var(--chart-3);
+  --color-chart-2: var(--chart-2);
+  --color-chart-1: var(--chart-1);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  --background: #070B14;
+  --foreground: #F5F7FB;
+  --card: #121A2B;
+  --card-foreground: #F5F7FB;
+  --popover: #0F1626;
+  --popover-foreground: #F5F7FB;
+  --primary: #3B82F6;
+  --primary-foreground: #FFFFFF;
+  --secondary: #1A2439;
+  --secondary-foreground: #F5F7FB;
+  --muted: #0F1626;
+  --muted-foreground: #B0BBD1;
+  --accent: #1A2439;
+  --accent-foreground: #F5F7FB;
+  --destructive: #EF4444;
+  --border: #1E2A3F;
+  --input: #2B3A54;
+  --ring: #3B82F6;
+  --chart-1: #3B82F6;
+  --chart-2: #22D3EE;
+  --chart-3: #F59E0B;
+  --chart-4: #818CF8;
+  --chart-5: #F5F7FB;
+  --radius: 0.625rem;
+  --sidebar: #0F1626;
+  --sidebar-foreground: #F5F7FB;
+  --sidebar-primary: #3B82F6;
+  --sidebar-primary-foreground: #FFFFFF;
+  --sidebar-accent: #1A2439;
+  --sidebar-accent-foreground: #F5F7FB;
+  --sidebar-border: #1E2A3F;
+  --sidebar-ring: #3B82F6;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
