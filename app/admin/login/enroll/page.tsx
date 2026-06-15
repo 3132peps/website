@@ -137,7 +137,7 @@ export default function AdminEnrollPage() {
       <div className="w-full max-w-md">
         <div className="mb-6 text-center">
           <h1 className="text-2xl font-bold text-[#F5F7FB]">
-            <span className="text-[#2563EB]">ELV8</span> Admin
+            <span className="text-[#2563EB]">31-32</span> Admin
           </h1>
           <p className="mt-1 text-sm text-[#8A96AC]">Set up two-factor auth</p>
         </div>

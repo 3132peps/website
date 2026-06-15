@@ -369,7 +369,7 @@ export default function AdminDiscountsPage() {
               Product Stock
             </Link>
             <h1 className="text-lg font-bold text-[#F5F7FB]">
-              <span className="text-[#2563EB]">ELV8</span> Discount Codes
+              <span className="text-[#2563EB]">31-32</span> Discount Codes
             </h1>
           </div>
           <Button

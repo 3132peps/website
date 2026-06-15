@@ -88,7 +88,7 @@ export default function AdminDashboardPage() {
       <header className="border-b border-[#1E2A3F] bg-[#121A2B]">
         <div className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-4 sm:px-6">
           <h1 className="text-lg font-bold text-[#F5F7FB]">
-            <span className="text-[#2563EB]">ELV8</span> Order Management
+            <span className="text-[#2563EB]">31-32</span> Order Management
           </h1>
           <div className="flex items-center gap-2">
             <Link href="/admin/orders/new">

@@ -32,7 +32,7 @@ export default async function AdminProductEditPage({
               &larr; Back to products
             </Link>
             <h1 className="text-lg font-bold text-[#F5F7FB]">
-              <span className="text-[#2563EB]">ELV8</span> &middot; Edit{" "}
+              <span className="text-[#2563EB]">31-32</span> &middot; Edit{" "}
               <span className="text-[#8A96AC]">{product.name}</span>
             </h1>
           </div>

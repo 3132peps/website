@@ -453,7 +453,7 @@ export default function ProductForm({ mode, initial }: ProductFormProps) {
                   onChange={(e) =>
                     updateVariant(i, { sku: e.target.value })
                   }
-                  placeholder="ELV8-XXX-10"
+                  placeholder="31-32-XXX-10"
                 />
               </div>
               <div className="col-span-6 sm:col-span-2">

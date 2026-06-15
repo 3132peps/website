@@ -50,7 +50,7 @@ export default async function AdminOrderNewPage() {
               &larr; Orders
             </Link>
             <h1 className="text-lg font-bold text-[#F5F7FB]">
-              <span className="text-[#2563EB]">ELV8</span> &middot; New order
+              <span className="text-[#2563EB]">31-32</span> &middot; New order
             </h1>
           </div>
         </div>

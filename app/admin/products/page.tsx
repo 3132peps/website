@@ -293,7 +293,7 @@ export default function AdminProductsPage() {
               &larr; Orders
             </Link>
             <h1 className="text-lg font-bold text-[#F5F7FB]">
-              <span className="text-[#2563EB]">ELV8</span> Products
+              <span className="text-[#2563EB]">31-32</span> Products
             </h1>
           </div>
           <div className="flex items-center gap-2">

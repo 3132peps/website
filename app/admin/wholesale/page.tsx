@@ -112,7 +112,7 @@ export default function AdminWholesalePage() {
               &larr; Orders
             </Link>
             <h1 className="text-lg font-bold text-[#F5F7FB]">
-              <span className="text-[#2563EB]">ELV8</span> Wholesale
+              <span className="text-[#2563EB]">31-32</span> Wholesale
             </h1>
           </div>
           <Button

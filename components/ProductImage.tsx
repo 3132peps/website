@@ -77,9 +77,9 @@ function VialSVG({ name, weight }: { name: string; weight: string }) {
         {/* Label top accent line */}
         <rect x="76" y="95" width="48" height="3" rx="1.5" fill="#2563EB" />
 
-        {/* ELV8 brand text */}
+        {/* 31-32 brand text */}
         <text x="100" y="112" textAnchor="middle" fontSize="7" fontWeight="700" fill="#2563EB" fontFamily="system-ui, sans-serif" letterSpacing="1.5">
-          ELV8
+          31-32
         </text>
 
         {/* Product name */}
@@ -144,7 +144,7 @@ function PenSVG({ name, weight }: { name: string; weight: string }) {
         <rect x="-65" y="-45" width="130" height="90" rx="5" fill="url(#boxGrad)" stroke="#c8cdd0" strokeWidth="0.8" />
         {/* Box brand */}
         <text x="0" y="-18" textAnchor="middle" fontSize="10" fontWeight="800" fill="#2563EB" fontFamily="system-ui, sans-serif" letterSpacing="2">
-          ELV8
+          31-32
         </text>
         <text x="0" y="-5" textAnchor="middle" fontSize="6" fontWeight="500" fill="#6b7280" fontFamily="system-ui, sans-serif" letterSpacing="0.5">
           WELLNESS
@@ -179,7 +179,7 @@ function PenSVG({ name, weight }: { name: string; weight: string }) {
 
         {/* Pen body text */}
         <text x="128" y="84" textAnchor="middle" fontSize="5.5" fontWeight="600" fill="white" fontFamily="system-ui, sans-serif" opacity="0.6" letterSpacing="1.5">
-          ELV8
+          31-32
         </text>
         <text x="128" y="96" textAnchor="middle" fontSize="7" fontWeight="700" fill="white" fontFamily="system-ui, sans-serif">
           {displayName}
@@ -264,9 +264,9 @@ function NasalSVG({ name, weight }: { name: string; weight: string }) {
         {/* Label top accent */}
         <rect x="72" y="115" width="56" height="3" rx="1.5" fill="#2563EB" />
 
-        {/* ELV8 brand */}
+        {/* 31-32 brand */}
         <text x="100" y="132" textAnchor="middle" fontSize="7" fontWeight="700" fill="#2563EB" fontFamily="system-ui, sans-serif" letterSpacing="1.5">
-          ELV8
+          31-32
         </text>
 
         {/* Product name */}

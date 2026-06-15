@@ -20,7 +20,7 @@ export default function AdminProductNewPage() {
               &larr; Back to products
             </Link>
             <h1 className="text-lg font-bold text-[#F5F7FB]">
-              <span className="text-[#2563EB]">ELV8</span> &middot; New product
+              <span className="text-[#2563EB]">31-32</span> &middot; New product
             </h1>
           </div>
         </div>
