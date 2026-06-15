@@ -181,7 +181,7 @@ ${orderData.formData.addressLine1}
 ${orderData.formData.addressLine2 ? orderData.formData.addressLine2 + "\n" : ""}${orderData.formData.city}
 ${orderData.formData.county ? orderData.formData.county + "\n" : ""}${orderData.formData.postcode}
 
-Our team will review your order and send an invoice to your email within 24 hours.
+Our team will review your order and get in touch with you directly to confirm and arrange everything.
 
 All products are sold strictly for research use only (RUO). Not for human consumption.
 
@@ -240,9 +240,9 @@ Amount Due: GBP ${data.totalPrice.toFixed(2)}
 
 Payment Details -- UK Bank Transfer
 -----------------------------------
-Account Name:      Leanne Williams
-Sort Code:         04-29-09
-Account Number:    40091856
+Account Name:      [PENDING - 31-32 account name]
+Sort Code:         00-00-00
+Account Number:    00000000
 Payment Reference: ${data.orderRef}
 
 IMPORTANT: Please quote "${data.orderRef}" as your payment reference on your bank transfer so we can match the payment to your order and dispatch it without delay.
