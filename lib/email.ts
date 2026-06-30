@@ -30,6 +30,14 @@ function getAdminEmail(): string {
   return email;
 }
 
+// The verified sending identity. Defaults to info@31-32peptides.com, but can
+// be overridden with the EMAIL_FROM env var so the "From" matches whatever
+// domain or subdomain is actually verified in Resend, e.g.
+// "31-32 Peptides <orders@send.31-32peptides.com>".
+function getFromAddress(): string {
+  return process.env.EMAIL_FROM || "31-32 Peptides <info@31-32peptides.com>";
+}
+
 // ---------------------------------------------------------------------------
 // Types
 // ---------------------------------------------------------------------------
@@ -90,7 +98,7 @@ Location:   ${geoLine}
 User-Agent: ${meta.userAgent ?? "N/A"}`;
 
     const { data, error } = await resend.emails.send({
-      from: "31-32 Peptides <info@31-32peptides.com>",
+      from: getFromAddress(),
       to: adminEmail,
       subject: `New Order: ${orderData.orderRef}`,
       text: `
@@ -161,7 +169,7 @@ export async function sendOrderConfirmation(
         : "";
 
     const { data, error } = await resend.emails.send({
-      from: "31-32 Peptides <info@31-32peptides.com>",
+      from: getFromAddress(),
       to: orderData.formData.email,
       subject: `Order Confirmation - ${orderData.orderRef}`,
       text: `
@@ -226,7 +234,7 @@ export async function sendInvoiceEmail(
     const pdfBuffer = Buffer.from(data.pdf);
 
     const { data: result, error } = await resend.emails.send({
-      from: "31-32 Peptides <info@31-32peptides.com>",
+      from: getFromAddress(),
       to: data.customerEmail,
       subject: `Invoice ${data.invoiceNumber} for Order ${data.orderRef}`,
       text: `
@@ -299,7 +307,7 @@ export async function sendDispatchEmail(
       .join("\n");
 
     const { data: result, error } = await resend.emails.send({
-      from: "31-32 Peptides <info@31-32peptides.com>",
+      from: getFromAddress(),
       to: data.customerEmail,
       subject: `Your Order Has Been Dispatched - ${data.orderRef}`,
       text: `
@@ -470,7 +478,7 @@ export async function sendWholesaleAdminEmail(
     const subjectTag =
       payload.storedId !== null ? `#${payload.storedId}` : "(DB FAILED)";
     const { data, error } = await resend.emails.send({
-      from: "31-32 Peptides <info@31-32peptides.com>",
+      from: getFromAddress(),
       to: adminEmail,
       replyTo: payload.businessEmail,
       subject: `Wholesale enquiry ${subjectTag}: ${payload.businessName}`,
@@ -497,7 +505,7 @@ export async function sendWholesaleAcknowledgementEmail(
   try {
     const resend = getResend();
     const { data, error } = await resend.emails.send({
-      from: "31-32 Peptides <info@31-32peptides.com>",
+      from: getFromAddress(),
       to: payload.businessEmail,
       subject: "Wholesale enquiry received -- 31-32 Peptides",
       text: buildSubmitterWholesaleBody(payload),
@@ -536,7 +544,7 @@ export async function sendContactEmail(
     const adminEmail = getAdminEmail();
 
     const { data, error } = await resend.emails.send({
-      from: "31-32 Peptides <info@31-32peptides.com>",
+      from: getFromAddress(),
       to: adminEmail,
       replyTo: contactData.email,
       subject: `Contact Form: ${contactData.subject}`,
